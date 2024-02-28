@@ -8,3 +8,6 @@ The main purpose of these exercises is to familiarize students with Python's cap
 
 How to Use
 Each exercise focuses on specific Python commands and techniques relevant to cloud computing. Details instructions and sample code are followed in each exercise folder.
+
+Lets practice! 
+[![Nature](https://github.com/L00179723/Python-Exercises/assets/158096342/d3307d85-d265-4a30-bb10-a6d08a3bbbd7)]
